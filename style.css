@@ -11,7 +11,7 @@ body {
     height: 320px;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 15px;
+    border-radius: 5px;
     align-items:center;
     margin-top: 150px;
 }
@@ -20,7 +20,6 @@ body {
     background-repeat: no-repeat;
     background-size: 160px;
     margin: 20px;
-    border-radius: 15px;
 }
 .titulo h3 {
     margin-top: 170px;
