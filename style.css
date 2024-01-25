@@ -1,0 +1,42 @@
+
+body {
+    background-color: #d5e1ef;
+    height: 100%;
+    font-family: sans-serif
+}
+.container_principal {
+    display: flex;
+    background-color: white;
+    width: 200px;
+    height: 320px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    align-items:center;
+    margin-top: 150px;
+}
+.img {
+    background-image: url(./images/image-qr-code.png);
+    background-repeat: no-repeat;
+    background-size: 160px;
+    margin: 20px;
+    border-radius: 15px;
+}
+.titulo h3 {
+    margin-top: 170px;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 600;
+}
+.titulo p {
+    font-size: 10px;
+    text-align: center;
+}
+.footer { 
+    font-size: 11px;
+    margin: 10px;
+    text-align: center;
+}
+.footer a { 
+    color: hsl(228, 45%, 44%); 
+}
